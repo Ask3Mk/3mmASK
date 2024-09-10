@@ -1,0 +1,49 @@
+.navbarheader{    
+    
+    
+    
+    
+    
+    
+}
+.fa-brands{
+    
+    color: whitesmoke;
+    font-weight: 400;
+    font-size: 24px;
+    transform: translate(65px, 100px);
+    top: 0;
+    margin: 0;
+}
+.card-img{
+    
+        background: red;
+    
+    &:hover{ background: black;
+         
+            
+        
+    }
+    
+    
+}
+
+footer{
+    direction: rtl;
+}
+footer .container{
+    background: linear-gradient(135deg,rgb(3 109 169) 0%,rgb(48 45 45) 51%,rgb(104 83 122) 100%);
+    padding: 0;
+}
+
+footer .container .row{
+        padding: 3em 0em;
+}
+
+footer a{
+    
+display: block;
+    text-decoration: dashed;
+    padding: 0.5em 1em;
+    color: whitesmoke;
+}
